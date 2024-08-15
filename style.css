@@ -1,0 +1,56 @@
+.cont{
+    border: solid;
+    border-style:dotted;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+    width: 300px;
+    height: 280px;
+    margin:auto;
+    
+}
+h1{
+    color: green;
+}
+body
+{
+    background-color:aliceblue;
+}
+button{
+    color:azure;
+    background-color:green;
+    opacity: 100%;
+
+}
+a{
+    color: green;
+    font-size: small;
+}
+.for{
+    border: solid;
+    border-style: dotted;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+    width: 400px;
+    height: 310px;
+    margin: auto;
+}
+.taw
+{
+    border: solid;
+    border-style: dotted;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+    width: 400px;
+    height: 380px;
+    margin: auto;
+}
+.container
+{
+    border: solid;
+    border-style:dotted;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+    width: 500px;
+    height: 550px;
+    margin: auto;
+}
